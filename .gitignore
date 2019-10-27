@@ -19,6 +19,10 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+.idea
+.gitignore
+shopmall-multi-cache.iml
+target
 
 # Gradle
 .idea/**/gradle.xml
